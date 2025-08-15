@@ -147,7 +147,7 @@ ${workingLinks.map(link => `  <a href="${link.finalUrl}" target="_blank" rel="no
           </h2>
           
           <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto leading-relaxed">
-            Paste your Linktree, bio page, or any URL. We'll scan all links, check their status, 
+            Paste your Linktree, bio page, or any URL. We&apos;ll scan all links, check their status,
             and help you remove broken ones instantly.
           </p>
 
@@ -364,7 +364,7 @@ ${workingLinks.map(link => `  <a href="${link.finalUrl}" target="_blank" rel="no
             <div>
               <h4 className="text-lg font-semibold mb-4">Privacy</h4>
               <p className="text-gray-400 text-sm">
-                We don't store your data. All link checking happens in real-time 
+                We don&apos;t store your data. All link checking happens in real-time
                 and results are not saved on our servers.
               </p>
             </div>
